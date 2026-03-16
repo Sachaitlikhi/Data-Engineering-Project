@@ -91,8 +91,8 @@ The Bronze notebook ingests the raw Excel dataset into Azure Data Lake Storage a
 
 📸 **Bronze Notebook**
 
-![Bronze Notebook](<img width="1330" height="483" alt="Screenshot 2026-03-16 192239" src="https://github.com/user-attachments/assets/8b931bd2-4f56-4993-a9d6-8e2c0dbf985e" />
-)
+![Bronze Notebook](images/Screenshot 2026-03-16 192320.png)
+
 
 ---
 
